@@ -6,6 +6,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 > "Time on the mat will eventually surpass talent and ability." - Gracie Mag
 
-Accessed from <a href="http://graciebarra.com/2014/07/quotes-jiujitsu-inspiration/">Gracie Barra Quotes</a>
+Accessed from [Gracie Barra Quotes](http://graciebarra.com/2014/07/quotes-jiujitsu-inspiration/)
 
 See `complete` branch for an example.
